@@ -3,7 +3,10 @@
 <head>
 <title> Resume </title>
 </head>
+<body>
 
 <h2> My Resume </h2> 
+
+</body>
 
 </html>
