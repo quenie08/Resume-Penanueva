@@ -6,6 +6,15 @@
 <body>
 <img src="picMe.JPEG" width="128" height="128">
 
+<p> Quenie Marie Peñanueva </p>
+<p> Barangay 76-A Bucana, Davao City </p>
+<p> qpenanueva@gmail.com </p>
+
+<h2> Personal Background </h2>
+<h4> Date of Birth: August 30, 1996 </h4>
+<h4> Civil Status: Single </h4>
+<h4> Gender: Female </h4>
+
 </body>
 
 </html>
