@@ -12,8 +12,18 @@ p {
     color: Black;
 	font-family: courier;
 	text-align: center;
-	  margin: auto;
+	margin: auto;
     width: 60%;
     padding: 10px;
 }
+
+h2{
+	color: Black;
+	font-family: courier;
+	text-align: left;
+	margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+
    
