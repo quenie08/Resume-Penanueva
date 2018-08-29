@@ -16,6 +16,16 @@
 <h4> Gender: Female </h4>
 <h4> Citizenship: Filipino </h4>
 <h4> Height: 4'11 </h4>
+<h4> Weight: 50kg </h4> 
+<h4> Skills: Computer Literate(MS Word, MS Excel, MS Powerpoint) </h4>
+
+<h2> Educational Attainment </h2>
+<h4> Ementary: San Isidro Elementary School </h4>
+<h4> Cateel, Davao Oriental
+<h4> 2004 - 2009 </h4>
+
+<h4> Secondary: Maryknoll Academy of Catee Inc. </h4>
+<h4>Cateel, Davao Oriental </h4>
 
 
 </body>
