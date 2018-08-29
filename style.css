@@ -8,13 +8,15 @@ img {
     margin-right: auto;
 }
 
+
 p {
     color: Black;
 	font-family: courier;
 	text-align: center;
 	margin: auto;
     width: 60%;
-    padding: 10px;
+    padding: 5px;
+
 }
 
 h2{
