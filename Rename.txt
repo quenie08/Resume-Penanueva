@@ -14,6 +14,9 @@
 <h4> Date of Birth: August 30, 1996 </h4>
 <h4> Civil Status: Single </h4>
 <h4> Gender: Female </h4>
+<h4> Citizenship: Filipino </h4>
+<h4> Height: 4'11 </h4>
+
 
 </body>
 
